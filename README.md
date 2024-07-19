@@ -1,4 +1,4 @@
-![logo](https://github.com/vikassharma878/vikassharma878/blob/main/giphy.webp)
+![logo](https://github.com/vikassharma878/vikassharma878/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
 
 <h1 align="center">Hi 👋, I'm Vikas Sharma</h1>
 <h3 align="center">A Application developer from India</h3>
