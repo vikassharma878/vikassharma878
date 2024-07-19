@@ -1,7 +1,7 @@
 ![logo](https://github.com/vikassharma878/vikassharma878/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
 
 <h1 align="center">Hi 👋, I'm Vikas Sharma</h1>
-<h3 align="center">A Application developer from India</h3>
+<h3 align="center">Application Developer hailing from India</h3>
 <img align="right" alt= "coding" width="400" src="https://img.freepik.com/free-photo/3d-cartoon-style-character_23-2151034075.jpg?ga=GA1.1.1358123531.1721421120&semt=ais_user">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikassharma878&label=Profile%20views&color=0e75b6&style=flat" alt="vikassharma878" /> </p>
