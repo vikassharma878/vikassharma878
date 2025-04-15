@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Dart| Flutter | Firebase**
 
-- 📫 How to reach me **vikas878sharma@gmail.com**
+- 📫 How to reach me **vs05vikassharma@gmail.com**
 
 - ⚡ Fun fact **I speak fluent Dart, JavaScript, and occasional “Oops, I forgot a semicolon.” 🐍💻**
 
